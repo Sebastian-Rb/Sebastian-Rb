@@ -2,12 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-### Now Playing — Spotify 🎧
+<div align=center >
+<b>Now Playing — Spotify 🎧
+
 <p>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=dt5j66fnmd1zuc3r2wyha39bn&redirect=true">
-<img src= "https://spotify-github-profile.vercel.app/api/view uid=dt5j66fnmd1zuc3r2wyha39bn&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false"/>
+<a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=dt5j66fnmd1zuc3r2wyha39bn&redirect=true">
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=dt5j66fnmd1zuc3r2wyha39bn&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)"/>
 </a>
 </p>
+</div>
 
 ## Sobre mi
 
