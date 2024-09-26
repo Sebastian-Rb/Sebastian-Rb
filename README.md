@@ -14,8 +14,7 @@
 
 ## Sobre mi
 
-Hola 👋. Una corta presentacion
-Soy Sebastian, estudiante de Ingenieria en Software 
+A poco.
 Este github es con la finalidad de subir los proyectos universitarios y deberes que me manden, al igual que otros aportes que tenga en su momento
 
 ## Que mas 💤
